@@ -34,7 +34,7 @@ const Navbar = () => {
           to="/"
           className="w-auto h-auto bg-orange-500 bg-opacity-40 hover:bg-opacity-60 cursor-pointer text-gray-700 p-2 hover:text-white duration-100 ease-in-out"
         >
-          <h1 className="text-base font-semibold ">Crusty Crank</h1>
+          <h1 className="text-base font-semibold ">Tasty Tour</h1>
         </Link>
         <div className="w-auto h-full hidden md:flex items-center justify-between gap-3 px-2 py-1 rounded-sm">
           <Link
