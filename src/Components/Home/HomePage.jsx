@@ -66,7 +66,7 @@ const HomePage = () => {
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
       >
-        All Rights Reserved to Crusty Crank
+        All Rights Reserved to Tasty Tour
       </motion.p>
     </motion.div>
   );
